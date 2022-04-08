@@ -9,7 +9,7 @@ The following hardware is required:
 ```
 - D1 mini (ESP8266)
 - Resistors 10kOhm
-- Potential free contacts (Like buttons)
+- Potential free contacts (from your security system like ABUS Terxon)
 ```
 
 Connection:
